@@ -1,0 +1,19 @@
+#weddingRsvp > div:nth-child(2) > div > div > a {
+    text-align: center !important;
+    align-items: center !important;
+    margin-top: 0%;
+    margin-bottom: 3rem;
+}
+#weddingRsvp > div:nth-child(2) > div > div {
+    align-items: center !important;
+    align-self: center !important;
+    text-align: center;
+}
+#weddingRsvp > div.container.py-5 > div > div > div:nth-child(1) > p:nth-child(2) {
+    margin-bottom: 0;
+}
+#weddingRsvp > div.container.py-5 > div > div > div:nth-child(2) > p {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
