@@ -4,7 +4,7 @@ Este projeto é uma aplicação simples que captura dados de um formulário HTML
 
 ## 🎯 Funcionalidades
 
-- **JavaScript Modular**: A lógica de envio está encapsulada em uma classe separada (`FormHandler`), tornando o código organizado e fácil de manter.
+- **JavaScript Modular**: A lógica de envio está encapsulada em uma classe separada (`PostGoogleForm`), tornando o código organizado e fácil de manter.
 - **Integração com Google Forms**: Envio direto de dados para o Google Forms usando a URL do formulário e IDs específicos dos campos.
 - **Feedback do Usuário**: Notificações de sucesso ou erro para informar ao usuário se o envio foi realizado com sucesso ou se houve algum problema.
 - **Estrutura Separada**: Arquivos de HTML e JavaScript independentes, seguindo boas práticas de organização de código.
