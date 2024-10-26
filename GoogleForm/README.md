@@ -57,6 +57,7 @@ A classe `PostGoogleForm` encapsula a lógica de envio de dados:
 ## 📝 Notas
 
 - Certifique-se de configurar corretamente os IDs do Google Forms para garantir o envio dos dados.
+- `myform.submit(formData, 'name', 'email');` Certifique-se de configurar corretamente os nomes dos campos 
 - O projeto não inclui estilização CSS; sinta-se à vontade para personalizar o estilo do formulário como preferir.
 
 ---
